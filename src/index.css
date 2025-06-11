@@ -1,0 +1,42 @@
+
+.music-card {
+  height: auto;
+  width: 275px;
+  padding: 30px 20px;
+  background-color: rgb(253, 253, 252);
+  border-radius: 15px;
+  border: 0.5px solid rgb(169, 163, 163);
+}
+
+.container {
+  margin: auto;
+}
+
+.album-image {
+  width: 225px;
+  height: auto;
+  border-radius: 5px;
+  border: 0.5px solid rgba(0, 0, 0, 0.399);
+
+}
+
+.album-button {
+  background-color: rgb(247, 235, 227);
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border: none;
+  border-radius: 15px;
+  padding: 0 12px;
+  text-decoration: none;
+  color: black;
+  transition: transform 0.3s;
+
+}
+
+.album-button:hover{
+  background-color: rgb(248, 232, 224);
+  transform: scale(1.02);
+  filter: drop-shadow(0 0 0.75rem rgba(0, 0, 0, 0.05));
+}
