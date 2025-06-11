@@ -33,7 +33,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[https://i.imgur.com/h9xltnP.gif](https://i.imgur.com/h9xltnP.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://i.imgur.com/h9xltnP.gif" target="_blank" rel="noopener noreferrer">Video Walkthrough</a>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
